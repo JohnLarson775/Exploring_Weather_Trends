@@ -1,4 +1,4 @@
 # Exploring_Weather_Trends
 
-### Issues
-Plots not displaying in jupyter notebook file
+### Notes
+Limited rendering in `Exploring_Weather_Trends.ipynb`. Plotly features can be seen with nbviewer.
